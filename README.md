@@ -1,1 +1,1 @@
-# Querying-Sakila
+Using SQL to generate features from the [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html) database for the problem: How often will a movie be rented? Originally created by MySQL, Sakila is a nicely normalised schema modelling a DVD rental store, featuring things like films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals. [Click here](https://dev.mysql.com/doc/sakila/en/sakila-installation.html) for the installation guide.
